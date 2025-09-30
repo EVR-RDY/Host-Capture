@@ -1,0 +1,56 @@
+# 🖥️ Built-In Windows Tools
+(Already present on Windows, no need to add)
+- cmd.exe
+- reg.exe
+- sc.exe
+- tasklist.exe
+- net.exe
+- netstat.exe
+- ipconfig.exe
+- arp.exe
+- route.exe
+- wmic.exe   (XP SP2+, deprecated later)
+- schtasks.exe
+- wevtutil.exe   (Vista+ only)
+- vssadmin.exe   (Server SKUs / XP+)
+- eventquery.vbs (XP/2003 fallback)
+
+---
+
+# 📦 Third-Party Binaries (place in `binaries\`)
+### Memory Acquisition
+- **winpmem.exe**  
+  or  
+- **dumpit.exe**  
+  or  
+- **belkasoft_ramcapture.exe**
+
+*(Check `MemCap.bat` — whichever filename it calls must be present.)*
+
+### Sysinternals Suite
+- handle.exe
+- pslist.exe or psinfo.exe
+- psloglist.exe
+- autorunsc.exe
+- sigcheck.exe
+- tcpvcon.exe (or tcpview.exe with CLI export)
+
+### Archiving / Hashing
+- 7z.exe
+- md5deep.exe *(optional)*
+- sha256deep.exe *(optional)*
+
+### Optional / Helpers
+- RawCopy.exe
+- streams.exe
+- procdump.exe
+- WinDump.exe
+
+---
+
+# 📂 KAPE (if using `kape2.ps1`)
+Should be stored under `KAP\` (per `path.txt`):
+- kape.exe
+- Modules\
+- Targets\
+- Bins\
