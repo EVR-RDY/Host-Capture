@@ -1,3 +1,7 @@
+CHIRON — Automation Components README
+
+Short: this repository contains only the automation pieces (batch + PowerShell glue and orchestration) — it is a development scaffold intended to be integrated into a new, consolidated host capture script (the “capture”/“apture” script you’re building). It is not a finished end-to-end capture/analysis product.
+
 ## 🎯 Purpose
 
 These files automate the repetitive, platform-aware steps of **host triage** so a developer can fold them into a single new capture tool (the **“apture” script**).  
