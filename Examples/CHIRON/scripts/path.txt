@@ -1,8 +1,0 @@
-home=D:\WORK\CHIRONv2\
-toolpath=D:\WORK\CHIRONv2\scripts
-binaries=D:\WORK\CHIRONv2\binaries
-collection=D:\WORK\CHIRONv2\Collection
-KAP=D:\WORK\CHIRONv2\KAPE
-timestamp=2022.11.10.18.57.
-outpath=D:\WORK\CHIRONv2\Collection\DESKTOP-VH45LU5--2022.11.10.18.57.
-logfile="D:\WORK\CHIRONv2\Collection\DESKTOP-VH45LU5--2022.11.10.18.57.\DESKTOP-VH45LU5-2022.11.10.18.57..log"
